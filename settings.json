@@ -1,0 +1,90 @@
+{
+  "editor.formatOnSave": true,
+  "[javascript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "code-runner.runInTerminal": true,
+  "vscode-neovim.neovimExecutablePaths.win32": "C:\\Program Files\\Neovim\\bin\\nvim.exe",
+  "vscode-neovim.neovimInitVimPaths.win32": "C:\\nvim\\config\\init.lua",
+  "git.autofetch": true,
+  "extensions.experimental.affinity": {
+    "asvetliakov.vscode-neovim": 1
+  },
+  "vscode-neovim.compositeKeys": {
+    "jj": {
+      "command": "vscode-neovim.escape"
+    }
+  },
+  "editor.codeLens": false,
+  "editor.renderValidationDecorations": "never",
+  "editor.hover.enabled": false,
+  "editor.errorSquiggles": "off",
+  "typescript.validate.enable": false,
+  "javascript.validate.enable": false,
+  "eslint.validate": [],
+  "window.zoomLevel": 1,
+  "workbench.activityBar.location": "bottom",
+  "workbench.iconTheme": "material-icon-theme",
+  "material-icon-theme.hidesExplorerArrows": true,
+  "workbench.tree.renderIndentGuides": "none",
+  "workbench.sideBar.location": "right",
+  "workbench.statusBar.visible": false,
+  "workbench.startupEditor": "none",
+  "workbench.tips.enabled": false,
+  "window.titleBarStyle": "custom",
+  "workbench.editor.showTabs": "multiple",
+  "workbench.colorCustomizations": {
+    "terminalCursor.foreground": "#C45DFF"
+  },
+  "editor.guides.indentation": true,
+  "editor.renderWhitespace": "boundary",
+  "editor.renderLineHighlight": "none",
+  "editor.lightbulb.enabled": "off",
+  "editor.showFoldingControls": "never",
+  "editor.scrollbar.horizontal": "hidden",
+  "editor.scrollbar.vertical": "hidden",
+  "editor.overviewRulerBorder": false,
+  "editor.tabSize": 2,
+  "editor.detectIndentation": false,
+  "editor.fontFamily": "Firacode Nerd Font Mono",
+  "editor.fontSize": 14,
+  "editor.fontLigatures": true,
+  "editor.lineHeight": 2,
+  "explorer.confirmDragAndDrop": false,
+  "explorer.confirmDelete": false,
+  "explorer.compactFolders": false,
+  "scm.diffDecorations": "none",
+  "files.insertFinalNewline": true,
+  "extensions.ignoreRecommendations": true,
+  "files.autoSave": "afterDelay",
+  "terminal.integrated.fontFamily": "Firacode Nerd Font",
+  "terminal.integrated.lineHeight": 1.5,
+  "terminal.integrated.fontSize": 14,
+  "editor.cursorBlinking": "phase",
+  "editor.cursorSmoothCaretAnimation": "on",
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "workbench.editor.scrollToSwitchTabs": true,
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "animations.Enabled": true,
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "breadcrumbs.enabled": false,
+  "tabnine.experimentalAutoImports": true,
+  "diffEditor.ignoreTrimWhitespace": false,
+  "errorLens.enabledDiagnosticLevels": ["warning", "info", "error"],
+  "glassit.alpha": 255,
+  "workbench.colorTheme": "Dracula Theme",
+  "editor.minimap.enabled": true,
+  "terminal.integrated.defaultProfile.windows": "Git Bash"
+}
